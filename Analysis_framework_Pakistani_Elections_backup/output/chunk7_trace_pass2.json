@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "annotations": [
+      {
+        "type": "Issue Polarization",
+        "code": "Invalidation",
+        "justification": "The speaker dismisses the utility of the current parliamentary system ('what is the benefit of staying in this politics'), questioning the legitimacy of the legislative process."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "annotations": [
+      {
+        "type": "Personality Polarization",
+        "code": "Moral Superiority",
+        "justification": "The speaker frames Maulana Fazlur Rehman as the 'only' politician with the credit of moving people from 'guns to ballots,' asserting moral and political dominance over all other Pakistani leaders."
+      },
+      {
+        "type": "Party Polarization",
+        "code": "Threats",
+        "justification": "The speaker issues a veiled threat that if the democratic path is closed, the party will be 'free to choose any path,' specifically mentioning 'revolution' (Inqilab) as an alternative to the ballot."
+      },
+      {
+        "type": "Issue Polarization",
+        "code": "Absolutism",
+        "justification": "The speaker uses an 'either-or' framework: either the democratic way works as they demand, or they will opt for a totalizing 'revolution'."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "annotations": [
+      {
+        "type": "Personality Polarization",
+        "code": "Invalidation",
+        "justification": "Kundi dismisses the previous speaker's (Soomro) serious warnings of revolution as mere 'dialogues' or performance, trivializing the opponent's political stance."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "annotations": [
+      {
+        "type": "Party Polarization",
+        "code": "Moral Superiority",
+        "justification": "The speaker uses the history of the Bhutto family's executions and assassinations to claim a higher moral status for the PPP compared to the JUI-F regarding democratic sacrifices."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "annotations": [
+      {
+        "type": "Party Polarization",
+        "code": "Vilification",
+        "justification": "The speaker portrays JUI-F as a party that inherently desires a 'dictator' and a repeat of the Musharraf-era 'MMA' alliance, framing them as anti-democratic opportunists."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "annotations": [
+      {
+        "type": "Personality Polarization",
+        "code": "Vilification",
+        "justification": "The speaker characterizes the CM candidate (Ali Amin Gandapur) as a criminal involved in the May 9th riots whose 'crimes are forgiven' simply for being a candidate."
+      },
+      {
+        "type": "Issue Polarization",
+        "code": "Invalidation",
+        "justification": "The speaker questions the fairness and consistency of the state's legal and judicial system regarding the May 9th cases."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "annotations": [
+      {
+        "type": "Issue Polarization",
+        "code": "Fact Denial",
+        "justification": "The speaker explicitly denies the fairness of the elections in KPK, calling them not 'clean and transparent' (saaf-shaffaf)."
+      },
+      {
+        "type": "Party Polarization",
+        "code": "Otherization",
+        "justification": "The speaker separates 'those people' (PTI/Establishment beneficiaries) from the rest of the political victims, claiming they are above the law."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "annotations": [
+      {
+        "type": "Personality Polarization",
+        "code": "Invalidation",
+        "justification": "The speaker labels the opponent's claims as 'aerial firing' (empty talk/lies) and asserts that he only believes in 'proof,' positioning himself as a more credible actor."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "annotations": [
+      {
+        "type": "Personality Polarization",
+        "code": "Offensive Language",
+        "justification": "The speaker uses demeaning language toward Sher Afzal Marwat ('Who are you? What is your status?'), attacking his personal standing and relevance."
+      },
+      {
+        "type": "Personality Polarization",
+        "code": "Invalidation",
+        "justification": "The speaker completely denies Marwat's claim of contact with Zardari, calling him 'totally wrong' and accusing him of seeking self-importance."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "annotations": [
+      {
+        "type": "Personality Polarization",
+        "code": "Offensive Language",
+        "justification": "The speaker uses highly insulting terms like 'maskharapan' (buffoonery/acting like a jester) and 'dramebaazi' (theatrics) to describe Marwat."
+      },
+      {
+        "type": "Personality Polarization",
+        "code": "Vilification",
+        "justification": "The speaker characterizes the opponent as 'not a serious person' and claims 'his game is over,' attempting to terminate his political legitimacy."
+      }
+    ]
+  }
+]
